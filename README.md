@@ -81,12 +81,5 @@ This project analyzes the **ClassicModels** database using **MySQL** to solve re
 - Business Analytics
 - Query Optimization
 - Problem Solving
----
 
-## 👨‍💻 Author
-
-**Shubham Singh**
-
-Aspiring Data Scientist | SQL | Python | Power BI
-
-GitHub: https://github.com/SHUBH12-max
+  
